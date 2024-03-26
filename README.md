@@ -1,4 +1,8 @@
 ### Hello there 👋
+University Student
+Costa Rica Institute of Technology
+
+
 
 <!--
 **Joseph714/Joseph714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
